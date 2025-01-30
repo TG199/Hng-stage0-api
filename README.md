@@ -57,9 +57,9 @@ curl http://localhost:5000/
 ### Expected Response:
 ```json
 {
-  "email": "your-email@example.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+    "email":"ebiritg@gmail.com",
+    "current_datetime":"2025-01-30T16:33:37.006Z",
+    "github_url":"https://github.com/TG199/Hng-stage0-api"
 }
 ```
 

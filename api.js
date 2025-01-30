@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const exress = require('express');
 const cors = require("cors");
 
@@ -12,7 +14,7 @@ app.get("/", (req, res) => {
         email: "ebiritg@gmail.com",
         current_datetime: new Date().toISOString(),
         github_url: "https://github.com/TG199/Hng-stage0-api"
-        
+
     });
 });
 
